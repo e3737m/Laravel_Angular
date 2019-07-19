@@ -1,0 +1,12 @@
+.main{
+    width: 98%;
+    margin: auto;
+}
+.users{
+    float: left;
+    width: 60%;
+}
+.user-detail{
+    float: left;
+    width: 40%;
+}
